@@ -9,6 +9,7 @@ Both files are working sims. The .xlsm file contains the macro for log generatio
 Updates:
 * Raised max smithies to 20%
 * Fixed an error where imps weren't updating properly
+* Daily bonus now correctly gives ore, food or mana to appropriate races
 
 Current Issues:
 * No unique unit costs: prestige, souls, essence, other units
