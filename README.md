@@ -2,18 +2,19 @@
 
 Welcome to the ODA Simulator! Based entirely on the excel sim run by Blackreign and (mostly) accurate to the crazy world of ODA.
 
-Most new features and races are added and functional and accurate to Round 6.
+Most new features and races are added and functional and accurate to Round 8.
 
-Both files are working sims. The .xlsm file contains the macro for log generation. The .xlsx does not and should be better for non-windows users.
+Only the .xlsx file is currently available until I learn how to re-add macros back in.
 
 Updates:
-* Generally updated for round 8
+* Races updated to reflect most recent changes
+* Snow Elf added
+* Addition of Armory and Infirmary improvements (all thanks to Blackreign!)
+* Hours changed to Ticks, time now in proper 15 minute increments (thanks again to BR!)
 
 Current Issues:
 * No unique unit costs: prestige, souls, essence, other units
-* No new imps
 * Non-functional Lux spell and training - In Progress
 * No national bank exchange bonuses
 * Unit pairing bonuses not yet added
-* Snow Elves not yet implemented
 * Networth values not accurate
