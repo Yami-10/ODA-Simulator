@@ -11,6 +11,7 @@ Updates:
 * Snow Elf added
 * Addition of Armory and Infirmary improvements (all thanks to Blackreign!)
 * Hours changed to Ticks, time now in proper 15 minute increments (thanks again to BR!)
+* Shaded cells pdated to represent new, 28-tick protection time (more BR praise!)
 
 Current Issues:
 * No unique unit costs: prestige, souls, essence, other units
