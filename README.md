@@ -13,6 +13,10 @@ Updates:
 * Hours changed to Ticks, time now in proper 15 minute increments (thanks again to BR!)
 * Shaded cells pdated to represent new, 28-tick protection time (more BR praise!)
 
+v8.2:
+* Fixed mana cost of troops not being reduced from total mana
+* Fixed merfolk unit pricing
+
 Current Issues:
 * No unique unit costs: prestige, souls, essence, other units
 * Non-functional Lux spell and training - In Progress
