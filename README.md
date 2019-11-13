@@ -6,6 +6,9 @@ Most new features and races are added and functional and accurate to Round 8.
 
 Only the .xlsx file is currently available until I learn how to re-add macros back in.
 
+v9.1:
+* Updated based on latest Scribes
+
 v9.0:
 * Updated racial perks and costs
 * New races added, not yet fully implemented
