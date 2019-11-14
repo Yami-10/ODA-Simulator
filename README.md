@@ -6,8 +6,9 @@ Most new features and races are added and functional and accurate to Round 8.
 
 Only the .xlsx file is currently available until I learn how to re-add macros back in.
 
-v9.1:
+v9.2:
 * Updated based on latest Scribes
+* Updated triple starting mana for races (still need to verify other starting resources)
 
 v9.0:
 * Updated racial perks and costs
